@@ -153,8 +153,6 @@ npm run dev
 
 <br>
 
-<h3>Now it should open homepage of this chat app on your default browser</h3>
 
-<div align="center">
-  <img src="homepage.png" alt="home page for chat app">
-</div>
+
+
